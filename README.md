@@ -41,6 +41,7 @@ const YeisonBue = {
 - 🐍 Python enthusiast — from scrapers and REST APIs to real-time dashboards
 - 🐳 Containerizing everything I build with Docker & Docker Compose
 - 📊 Creating data-driven tools: price trackers, market dashboards and more
+- 🤖 Applying **Machine Learning** — sklearn pipelines, cross-validation & classification models on real-world datasets
 - 🎓 Studying **Systems Engineering** at Comfenalco · Cartagena, Colombia
 
 ---
@@ -69,6 +70,13 @@ const YeisonBue = {
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+**Data & Analysis**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 </div>
 
@@ -101,21 +109,21 @@ const YeisonBue = {
   <tr>
     <td width="50%" valign="top">
       <h3>🫀 <a href="https://github.com/YeisonBue/Heart-disease-eda">Heart Disease EDA</a></h3>
-      <p>Interactive exploratory data analysis dashboard on heart disease datasets. Built with Flask, Pandas and Plotly — fully containerized with Docker.</p>
+      <p>EDA dashboard + ML prediction system on the UCI Cleveland dataset. 21 interactive charts, an interactive chart builder, and a Logistic Regression model (95.13% AUC-ROC) comparing 4 algorithms.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
         <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
         <img src="https://img.shields.io/github/last-commit/YeisonBue/Heart-disease-eda?style=flat-square&color=00BFFF&labelColor=0d1117"/>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/YeisonBue/pokedex-angular">Pokédex Angular</a></h3>
-      <p>Feature-rich Pokédex web app built with Angular and TypeScript. Consumes the PokéAPI with a clean, responsive UI.</p>
+      <h3>🏖️ <a href="https://github.com/YeisonBue/Playacheck">PlayaCheck</a></h3>
+      <p>Real-time collaborative beach occupancy monitor for Cartagena, Colombia. Features WebSockets, interactive Leaflet maps and live weather data.</p>
       <p>
-        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/github/last-commit/YeisonBue/pokedex-angular?style=flat-square&color=00BFFF&labelColor=0d1117"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/github/last-commit/YeisonBue/Playacheck?style=flat-square&color=00BFFF&labelColor=0d1117"/>
       </p>
     </td>
   </tr>
