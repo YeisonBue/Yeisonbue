@@ -93,18 +93,20 @@ const YeisonBue = {
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
         <img src="https://img.shields.io/github/last-commit/YeisonBue/Gamedeal-Insight?style=flat-square&color=00BFFF&labelColor=0d1117"/>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏖️ <a href="https://github.com/YeisonBue/Playacheck">PlayaCheck</a></h3>
-      <p>Real-time collaborative beach occupancy monitor for Cartagena, Colombia. Features WebSockets, interactive Leaflet maps and live weather data.</p>
+      <h3>🫀 <a href="https://github.com/YeisonBue/Heart-disease-eda">Heart Disease EDA</a></h3>
+      <p>Interactive exploratory data analysis dashboard on heart disease datasets. Built with Flask, Pandas and Plotly — fully containerized with Docker.</p>
       <p>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-        <img src="https://img.shields.io/github/last-commit/YeisonBue/Playacheck?style=flat-square&color=00BFFF&labelColor=0d1117"/>
+        <img src="https://img.shields.io/github/last-commit/YeisonBue/Heart-disease-eda?style=flat-square&color=00BFFF&labelColor=0d1117"/>
       </p>
     </td>
     <td width="50%" valign="top">
