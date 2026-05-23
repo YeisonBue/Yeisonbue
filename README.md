@@ -118,12 +118,12 @@ const YeisonBue = {
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🏖️ <a href="https://github.com/YeisonBue/Playacheck">PlayaCheck</a></h3>
-      <p>Real-time collaborative beach occupancy monitor for Cartagena, Colombia. Features WebSockets, interactive Leaflet maps and live weather data.</p>
+      <h3>⚡ <a href="https://github.com/YeisonBue/pokedex-angular">Pokédex Angular</a></h3>
+      <p>Feature-rich Pokédex web app built with Angular and TypeScript. Consumes the PokéAPI with a clean, responsive UI.</p>
       <p>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-        <img src="https://img.shields.io/github/last-commit/YeisonBue/Playacheck?style=flat-square&color=00BFFF&labelColor=0d1117"/>
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/github/last-commit/YeisonBue/pokedex-angular?style=flat-square&color=00BFFF&labelColor=0d1117"/>
       </p>
     </td>
   </tr>
